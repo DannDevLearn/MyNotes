@@ -14,9 +14,9 @@ Fedora en mi caso
 
 Esto nos mostrara los kernels que tenemos disponibles.
 
-[!TIP]
-Recuerda que es bueno tener al menos 2 Kernels el actual y el anterior
-pero tu decides cuantos tener.
+> [!TIP]
+> Recuerda que es bueno tener al menos 2 Kernels el actual y el anterior
+> pero tu decides cuantos tener.
 
 Para poder eliminar el kernel que no queremos que aparesca en el grub
 
